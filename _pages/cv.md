@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 This is a Brief Version of my CV; please email me if you want a more detailed version of it.
+
 Education
 ======
 * DPhil in Politics, University of Oxford, Expected April 2028
