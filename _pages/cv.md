@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 * July 2022 - July 2023: Research Assistant (Full time) 
-* Department of Government and Public Administration, the Chinese University of Hong Kong
+  * Department of Government and Public Administration, the Chinese University of Hong Kong
   * Research Project on Environmental NGO's policy advocacy in China / Environmental INGO's engagement with China
   * Supervisor: Professor Carlos Wing-Hung Lo; Professor Hui Li (HKU)
 
