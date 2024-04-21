@@ -51,7 +51,7 @@ Awards and Fellowships
   
 Skills
 ======
-* Computational Tools:
+* Data Analysis Tools:
   * R Studio (Courses Taken: Computing for the Social Sciences; Mathematical Foundations of Political Methodology; Intermediate Statistics)
   * STATA (Course Taken: Event History Analysis)
   * LaTeX
