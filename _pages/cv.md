@@ -13,7 +13,8 @@ This is a Brief Version of my CV; please email me if you want a more detailed ve
 
 Education
 ======
-* DPhil in Politics, University of Oxford, Expected April 2028
+* PhD in Political Science, the University of Minnesota, Twin Cities
+* DPhil in Politics, University of Oxford, 2023-2024 (Transferred Out)
 * MA in International Relations, University of Chicago, August 2021
 * BSFS in International Politics, Georgetown University, May 2019
   
